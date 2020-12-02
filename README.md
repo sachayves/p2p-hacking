@@ -1,7 +1,14 @@
 # p2p-hacking
 
+### Papers
+- https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf
+- https://pdos.csail.mit.edu/6.824/papers/stoica-chord.pdf
+- https://eprint.iacr.org/2018/236.pdf
 
-### Reading / resources
+### Resources
+- http://xlattice.sourceforge.net/components/protocol/kademlia/specs.html
+- http://blog.notdot.net/2009/11/Implementing-a-DHT-in-Go-part-1
+- http://blog.notdot.net/2009/11/Implementing-a-DHT-in-Go-part-2
 - https://docs.libp2p.io/concepts/publish-subscribe/
 - https://gateway.ipfs.io/ipfs/QmRAFP5DBnvNjdYSbWhEhVRJJDFCLpPyvew5GwCCB4VxM4
 - https://www.youtube.com/watch?v=mlrf1058ENY&index=3&list=PLuhRWgmPaHtRPl3Itt_YdHYA0g0Eup8hQ
