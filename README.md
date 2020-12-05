@@ -4,8 +4,13 @@
 - https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf
 - https://pdos.csail.mit.edu/6.824/papers/stoica-chord.pdf
 - https://eprint.iacr.org/2018/236.pdf
+- https://arxiv.org/pdf/1812.05638.pdf
+- https://www.freehaven.net/anonbib/cache/tor-design.pdf
+- https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_winter.pdf
 
 ### Resources
+- [Eth2 - LibP2P Gossipsub Testing](https://github.com/whiteblock/gossipsub-testing)
+- [Basic Two Node Communication](https://hackmd.io/OqUbEdbRSG6CRojUiitYiA#)
 - http://xlattice.sourceforge.net/components/protocol/kademlia/specs.html
 - http://blog.notdot.net/2009/11/Implementing-a-DHT-in-Go-part-1
 - http://blog.notdot.net/2009/11/Implementing-a-DHT-in-Go-part-2
